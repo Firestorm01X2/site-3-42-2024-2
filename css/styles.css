@@ -1,9 +1,9 @@
 body {
-    background-color: blue;
+    background-color: rgb(255, 0, 0);
 }
 h1 {
-    color: white;
+    color: purple;
 }
 p {
-    color: yellow;
+    color: rgb(173, 255, 47);
 }
